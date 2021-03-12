@@ -7,8 +7,7 @@
 </p>
 
 <p align="center">
-    <strong>Twitter<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kevstahjr" height="20" width="20" /></strong>
-    <p>https://www.twitter.com/AtlasOrb</p>
+    <p>Twitter <a href="https://twitter.com/kevstahjr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kevstahjr" height="20" width="20" /></a></p>
     
 </p>
 
