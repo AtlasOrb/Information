@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-        <h1 align="center">Social Media</h1>
+        <strong>Social Media</strong>
     <p>Twitter: <a href="https://twitter.com/AtlasOrb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kevstahjr" height="20" width="20" /></a></p>
 
 <br>
