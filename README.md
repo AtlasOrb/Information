@@ -7,8 +7,9 @@
 </p>
 
 <p align="center">
-    <strong>This privacy policy will explain what information the website and plugin collects and why we collect it.</strong>
-    <h1 align="center">Information</h1>
+    <strong>Twitter<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kevstahjr" height="20" width="20" /></strong>
+    <p>https://www.twitter.com/AtlasOrb</p>
+    
 </p>
 
 <strong>The website may collect the following from you:</strong>
